@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mukunku/tag-exists-action.git"
+    "url": "git+https://github.com/despegar/tag-exists-action.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mukunku/tag-exists-action/issues"
+    "url": "https://github.com/despegar/tag-exists-action/issues"
   },
-  "homepage": "https://github.com/mukunku/tag-exists-action#readme",
+  "homepage": "https://github.com/despegar/tag-exists-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.3",
     "@actions/github": "^2.1.1"
